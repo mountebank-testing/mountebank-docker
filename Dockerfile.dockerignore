@@ -1,0 +1,5 @@
+# Ignore everything that is not white listed below
+*
+
+!/Dockerfile
+!/Dockerfile.dockerignore
